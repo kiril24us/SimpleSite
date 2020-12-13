@@ -1,0 +1,15 @@
+.grid-item { 
+	width: 100x; 
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+.grid-item--width2 { 
+	width: 200px; 
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+.grid-item--width3 { 
+  width: 300px; 
+  display: inline-flex;
+  flex-wrap: wrap;
+}
